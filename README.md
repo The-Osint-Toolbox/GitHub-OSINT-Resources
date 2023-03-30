@@ -4,6 +4,7 @@
 <ul>
 <li>https://github.com/cipher387</li>
 <li>https://github.com/dutchosintguy</li>
+<li>https://github.com/HashPals/Search-That-Hash</li>
 <li>https://github.com/laramies/theHarvester</li>
 <li>https://github.com/WebBreacher</li>
 </ul>

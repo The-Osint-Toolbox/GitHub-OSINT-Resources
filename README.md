@@ -15,5 +15,6 @@
  <li>https://github.com/obsproject/obs-studio</li>
  <li>https://github.com/smicallef/spiderfoot</li>
  <li>https://github.com/WebBreacher</li>
+ <li>https://github.com/zqtay/Telegram-Message-Analyzer</li>
 </ul>
 <p>Privacy</p>

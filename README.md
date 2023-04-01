@@ -13,6 +13,7 @@
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
+ <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a></li>
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
  <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>

@@ -17,6 +17,7 @@
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
  <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
+ <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
 </ul>

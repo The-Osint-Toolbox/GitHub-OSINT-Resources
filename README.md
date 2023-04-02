@@ -2,7 +2,7 @@
 <p>A list of GitHub accounts that you will find useful for OSINT & Privacy. Some of these resources you will find in my other repos.</p>
 <p>OSINT</p>
 <ul> 
- <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
+ <li><a href="https://github.com/gchq/CyberChef">CyberChef</a></li>
  <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>

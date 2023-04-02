@@ -9,6 +9,7 @@
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
+ <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>

@@ -40,9 +40,12 @@
   <p>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users</p>
+ <li><a href="https://github.com/utkusen/shotlooter">Shoot Looter</a></li>
+  <p>A recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
+  <p>Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
+  <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
- <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>

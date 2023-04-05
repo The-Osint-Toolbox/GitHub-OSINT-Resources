@@ -6,6 +6,8 @@
   <p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.</p>
  <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
   <p>Comphrensive list of OSINT resources.</p>
+ <li><a href="https://github.com/mxrch/darkshot">Darkshot</a></li>
+  <p>Lightshot scraper with OCR.</p>
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <p>Comphrensive list of OSINT resources</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>

@@ -17,11 +17,13 @@
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
   <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
+   <p>Searches Hash APIs to crack your hash quickly. If hash is not found, automatically pipes into HashCat</p>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
   <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
  <li><a href="https://github.com/megadose/ignorant">Igorant</a></li>
- <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
+  <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
+  <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>

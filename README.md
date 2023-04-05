@@ -32,12 +32,15 @@
   <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
    <p>Collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.</p>
+ <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a></li>
+  <p>Display and control your Android device.</p>
+ <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
+  <p>Hunt down social media accounts by username across social networks.</p>
+ <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
+  <p>Discover the location of nearby Telegram users</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
- <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a></li>
- <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
- <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
  <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>

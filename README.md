@@ -3,6 +3,7 @@
 <p>OSINT</p>
 <ul> 
  <li><a href="https://github.com/gchq/CyberChef">CyberChef</a></li>
+  <p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis</p>
  <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
@@ -10,14 +11,14 @@
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
- <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
+  <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
  <li><a href="https://github.com/megadose/ignorant">Igorant</a></li>
  <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>
- <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
+  <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>

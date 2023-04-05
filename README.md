@@ -11,6 +11,7 @@
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <p>Comphrensive list of OSINT resources</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
+  <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>

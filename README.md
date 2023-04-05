@@ -13,8 +13,9 @@
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
-   <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
+  <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
+  <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
   <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>

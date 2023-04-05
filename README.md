@@ -27,8 +27,11 @@
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
+  <p>Free and open source software for live streaming and screen recording.</p>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>
   <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
+ <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
+   <p>Collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>

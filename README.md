@@ -7,6 +7,7 @@
  <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
   <p>Comphrensive list of OSINT resources.</p>
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
+  <p>Comphrensive list of OSINT resources</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>

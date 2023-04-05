@@ -37,6 +37,7 @@
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
   <p>Hunt down social media accounts by username across social networks.</p>
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
+  <p>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
   <p>Discover the location of nearby Telegram users</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>

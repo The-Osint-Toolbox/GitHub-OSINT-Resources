@@ -25,6 +25,7 @@
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
+  <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>
   <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>

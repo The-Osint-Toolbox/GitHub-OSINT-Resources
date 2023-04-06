@@ -13,21 +13,21 @@
  <li><a href="https://github.com/mxrch/darkshot">Darkshot</a></li>
   <p>Lightshot scraper with OCR.</p>
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
-  <p>Comphrensive list of OSINT resources</p>
+  <p>Comphrensive list of OSINT resources.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
   <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
-  <p>I collection of OSINT tools</p>
+  <p>I collection of OSINT tools.</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
-   <p>Searches Hash APIs to crack your hash quickly. If hash is not found, automatically pipes into HashCat</p>
+   <p>Searches Hash APIs to crack your hash quickly. If hash is not found, automatically pipes into HashCat.</p>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
   <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
  <li><a href="https://github.com/megadose/ignorant">Igorant</a></li>
   <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
-  <p>I collection of OSINT tools</p>
+  <p>I collection of OSINT tools.</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
@@ -43,7 +43,7 @@
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
   <p>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</p>
  <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
-  <p>Discover the location of nearby Telegram users</p>
+  <p>Discover the location of nearby Telegram users.</p>
  <li><a href="https://github.com/utkusen/shotlooter">Shoot Looter</a></li>
   <p>A recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc.</p>
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
@@ -57,6 +57,7 @@
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
    <p>I collection of OSINT tools & resources.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
+   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
  <li><a href="https://github.com/mattwright324/youtube-geofind">YouTube Geofind</a></li>

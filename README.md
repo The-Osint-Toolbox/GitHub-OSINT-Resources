@@ -49,10 +49,11 @@
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
   <p>Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
-   <p>I collection of OSINT tools</p>
+   <p>I collection of OSINT tools.</p>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
    <p>E-mails, subdomains and names Harvester - OSINT.</p>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
+   <p>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets.</p>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>

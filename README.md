@@ -59,6 +59,7 @@
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
    <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
+   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
  <li><a href="https://github.com/mattwright324/youtube-geofind">YouTube Geofind</a></li>
 </ul>

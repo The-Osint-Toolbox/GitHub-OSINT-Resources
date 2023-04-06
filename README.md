@@ -1,5 +1,5 @@
 # GitHub-OSINT-Resources
-<p>A list of GitHub accounts that you will find useful for OSINT & Privacy. Some of these resources you will find in my other repos.</p>
+<p>A list of GitHub accounts that you will find useful for OSINT. Some of these resources you will find in my other repos.</p>
 <table>
     <tr>
         <td>OSINT Resources & Tools</td>
@@ -61,6 +61,9 @@
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
    <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
+   <p>Command-line program to download videos from YouTube.com and other video sites.</p>
  <li><a href="https://github.com/mattwright324/youtube-geofind">YouTube Geofind</a></li>
+   <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p>
 </ul>
+<br/>
 

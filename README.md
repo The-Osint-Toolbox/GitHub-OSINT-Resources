@@ -55,6 +55,7 @@
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
    <p>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets.</p>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
+   <p>I collection of OSINT tools & resources.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>

@@ -1,6 +1,10 @@
 # GitHub-OSINT-Resources
 <p>A list of GitHub accounts that you will find useful for OSINT & Privacy. Some of these resources you will find in my other repos.</p>
-<p>OSINT</p>
+<table>
+    <tr>
+        <td>OSINT Resources & Tools</td>
+    </tr>
+</table>
 <ul> 
  <li><a href="https://github.com/gchq/CyberChef">CyberChef</a></li>
   <p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.</p>

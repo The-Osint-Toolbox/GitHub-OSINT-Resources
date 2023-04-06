@@ -51,6 +51,7 @@
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
    <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
+   <p>E-mails, subdomains and names Harvester - OSINT.</p>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>

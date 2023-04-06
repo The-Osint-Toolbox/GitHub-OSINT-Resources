@@ -49,6 +49,7 @@
  <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
   <p>Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
+   <p>I collection of OSINT tools</p>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>

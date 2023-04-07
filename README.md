@@ -19,7 +19,7 @@
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
   <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
-  <p>I collection of OSINT tools.</p>
+  <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
    <p>Searches Hash APIs to crack your hash quickly. If hash is not found, automatically pipes into HashCat.</p>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
@@ -27,11 +27,13 @@
  <li><a href="https://github.com/megadose/ignorant">Igorant</a></li>
   <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
-  <p>I collection of OSINT tools.</p>
+  <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
   <p>Free and open source software for live streaming and screen recording.</p>
+ <li><a href="https://github.com/s0md3v/Photon">Photon</a></li>
+  <p>Website crawler designed for OSINT.</p>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>
   <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
@@ -55,7 +57,7 @@
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
    <p>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets.</p>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
-   <p>I collection of OSINT tools & resources.</p>
+   <p>Collection of OSINT tools & resources.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
    <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>

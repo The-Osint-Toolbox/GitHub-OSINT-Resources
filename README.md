@@ -26,8 +26,10 @@
   <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
  <li><a href="https://github.com/megadose/ignorant">Igorant</a></li>
   <p>Ignorant allows you to check if a phone number is used on different sites like snapchat, instagram.</p>
- <li><a href="https://github.com/althonos/InstaLooter">Instaloader</a></li>
+ <li><a href="https://github.com/althonos/InstaLooter">Instalooter</a></li>
   <p>API-less Instagram pictures and videos downloader.</p>
+ <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>
+  <p>Download pictures (or videos) along with their captions.</p>
  <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>

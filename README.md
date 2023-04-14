@@ -34,6 +34,8 @@
   <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
+ <li><a href="https://github.com/megadose/">Megadose</a></li>
+  <p>The creator of Holehe & Ignorant and other OSINT tools.</p> 
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
   <p>Free and open source software for live streaming and screen recording.</p>
  <li><a href="https://github.com/s0md3v/Photon">Photon</a></li>

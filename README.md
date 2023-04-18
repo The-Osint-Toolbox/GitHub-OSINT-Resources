@@ -75,7 +75,7 @@
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
   <p>Command-line program to download videos from YouTube.com and other video sites.</p>
  <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a></li>
-  <p>A youtube-dl fork with additional features and fixes.</p
+    <p>A youtube-dl fork with additional features and fixes.</p>
  <li><a href="https://github.com/mattwright324/youtube-geofind">YouTube Geofind</a></li>
   <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p>
 </ul>

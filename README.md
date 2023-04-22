@@ -66,6 +66,9 @@
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
  <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
   <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
+  <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
+  <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
+ <li><a href="https://tgstat.com/">Tgstat.com</a></li> 
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
   <p>E-mails, subdomains and names Harvester - OSINT.</p>
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>

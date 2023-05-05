@@ -17,6 +17,8 @@
   <p>Comphrensive list of OSINT resources.</p>
  <li><a href="https://github.com/mxrch/darkshot">Darkshot</a></li>
   <p>Lightshot scraper with OCR.</p>
+ <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
+  <p> Hunt down social media accounts by username, email or phone across social networks.</p> 
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <p>Comphrensive list of OSINT resources.</p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>

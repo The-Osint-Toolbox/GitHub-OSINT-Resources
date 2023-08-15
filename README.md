@@ -21,6 +21,8 @@
   <p> Hunt down social media accounts by username, email or phone across social networks.</p> 
  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <p>Comphrensive list of OSINT resources.</p>
+ <li><a href="https://github.com/N0rz3/Eyes">Eyes</a></li>
+  <p>Eyes is an OSINT tool to get existing accounts from an email<p>
  <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
   <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>

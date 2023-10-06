@@ -55,6 +55,8 @@
   <p>Contributer to Malfrats as well as their own OSINT tools.</p> 
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
   <p>Free and open source software for live streaming and screen recording.</p>
+ <li><a href="https://github.com/hippiiee/osgint">Osgint</a></li> 
+  <p>Find GitHub username from an email.</p>
  <li><a href="https://github.com/s0md3v/Photon">Photon</a></li>
   <p>Website crawler designed for OSINT.</p>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>

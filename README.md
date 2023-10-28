@@ -50,7 +50,9 @@
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
   <p>Collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.</p>
  <li><a href="https://github.com/Malfrats">Malfrats Industries</a></li>
-  <p>The GitHub account for the makers of Malfrat's OSINT Map.</p> 
+  <p>The GitHub account for the makers of Malfrat's OSINT Map.</p>
+ <li><a href="https://github.com/mendel5/alternative-front-ends">Mendel5</a></li>
+  <p>Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).</p>
  <li><a href="https://github.com/megadose/">Megadose</a></li>
   <p>The creator of Holehe & Ignorant and other OSINT tools.</p> 
  <li><a href="https://github.com/novitae">Novitae</a></li>

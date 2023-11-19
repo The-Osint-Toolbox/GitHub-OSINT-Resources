@@ -49,6 +49,8 @@
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/henrywoo/kazam">Kazam</a></li>
   <p>Kazam is a Linux Desktop Screen Recorder and Broadcaster.</p>   
+ <li><a href="https://github.com/netkas-zz/KikToolset">Kik Toolset</a></li> 
+  <p>Miscellaneous tools for Kik, Both useful and useless.</p>
  <li><a href="https://github.com/soxoj/maigret/blob/main/README.md">Maigret</a></li>
   <p>Collects a dossier on a person by username only, checking for accounts on a huge number of sites and gathering all the available information from web pages.</p>
  <li><a href="https://github.com/Malfrats">Malfrats Industries</a></li>

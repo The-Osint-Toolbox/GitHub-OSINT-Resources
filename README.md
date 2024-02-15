@@ -6,6 +6,16 @@
 <br></br>
 <p>A list of GitHub accounts that you will find useful for OSINT. Some of these resources you will find in my other repos.</p>
 <table>
+    <tr>
+        <td>Search GitHub</td>
+    </tr>
+</table>
+<ul>
+    <li><a href="https://braingainsoft.com/gh/index.html">Braingainsoft</a></li>
+     <p>Search for GitHub user info</p>
+</ul>
+<br/>
+<table>
     <tr>
         <td>OSINT Resources & Tools</td>
     </tr>

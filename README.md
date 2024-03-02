@@ -107,6 +107,8 @@
   <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
  <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
   <p>E-mails, subdomains and names Harvester - OSINT.</p>
+ <li><a href="https://github.com/The-OSINT-Newsletter">The OSINT Newsletter</a></li> 
+  <p>Jake Creps is the Editor of The OSINT Newsletter and has created many different OSINT tools over the years.</p> 
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
   <p>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets.</p>
  <li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  

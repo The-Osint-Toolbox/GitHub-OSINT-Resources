@@ -1,7 +1,7 @@
 # GitHub-OSINT-Resources
 <br></br>
 <p align="center">
-  <img width="150" height="150" src="https://www.cqcore.uk/wp-content/uploads/2021/04/cropped-cropped-Capture-2.png">
+  <<img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">>
 </p>
 <br></br>
 <p>A list of GitHub accounts that you will find useful for OSINT. Some of these resources you will find in my other repos.</p>

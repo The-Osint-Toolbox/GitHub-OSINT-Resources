@@ -79,6 +79,8 @@
   <p>Free and open source software for live streaming and screen recording.</p>
  <li><a href="https://github.com/hippiiee/osgint">Osgint</a></li> 
   <p>Find GitHub username from an email.</p>
+ <li><a href="https://github.com/T43cr0wl3r/OSINT-RECON">OSINT-RECON</a></li>
+  <p>Open source intelligence tools and resources.</p>
  <li><a href="https://github.com/s0md3v/Photon">Photon</a></li>
   <p>Website crawler designed for OSINT.</p>
  <li><a href="https://github.com/C3n7ral051nt4g3ncy/Prot1ntelligence">Prot1ntelligence</a></li>

@@ -45,6 +45,8 @@
   <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
  <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
   <p>Collection of OSINT tools.</p>
+ <li><a href="https://github.com/huggingface">Hugging Faces</a></li>
+  <p>The AI community building the future.</p>
  <li><a href="https://github.com/vil/H4X-Tools/blob/master/readme.md">H4X-Tools</a></li>
   <p>Toolkit for scraping, OSINT and more.</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>

@@ -12,7 +12,7 @@
 </table>
 <ul>
     <li><a href="https://braingainsoft.com/gh/index.html">Braingainsoft</a></li>
-     <p>Search for GitHub user info</p>
+     <p>Search for GitHub user info</p>
 </ul>
 <br/>
 <table>
@@ -119,6 +119,8 @@
   <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
  <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
   <p>Collection of OSINT tools & resources.</p>
+ <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
+  <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>
   <p>Command-line program to download videos from YouTube.com and other video sites.</p>
  <li><a href="https://github.com/yt-dlp/yt-dlp">YouTube-dlp</a></li>

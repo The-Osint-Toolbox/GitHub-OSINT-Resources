@@ -92,7 +92,7 @@
  <li><a href="https://github.com/Genymobile/scrcpy">Scrcpy</a></li>
   <p>Display and control your Android device.</p>
  <li><a href="https://github.com/seekr-osint/seekr">Seekr</a></li>
-  <p>A multi-purpose OSINT toolkit with a neat web-interface.</p>
+  <p>A multi-purpose OSINT toolkit with a neat web-interface.</p>
  <li><a href="https://github.com/sherlock-project/sherlock">Sherlock</a></li>
   <p>Hunt down social media accounts by username across social networks.</p>
  <li><a href="https://github.com/utkusen/shotlooter">Shoot Looter</a></li>

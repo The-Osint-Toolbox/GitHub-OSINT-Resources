@@ -50,7 +50,7 @@
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
    <p>Searches Hash APIs to crack your hash quickly. If hash is not found, automatically pipes into HashCat.</p>
  <li><a href="https://github.com/Shad0w-ops/H.I.V.E">H.I.V.E</a></li>
-  <p>H.I.V.E is an automated OSINTmulti-tool that enables efficient data gathering from various sources.</p>
+  <p>H.I.V.E is an automated OSINTmulti-tool that enables efficient data gathering from various sources.</p>
  <li><a href="https://github.com/megadose/holehe">Holehe</a></li>
   <p>Holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.</p>
  <li><a href="https://github.com/huggingface">Hugging Faces</a></li>

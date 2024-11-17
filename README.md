@@ -33,6 +33,7 @@
   <li><a href="https://github.com/osintambition">OSINT Ambition</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/WebBreacher">Webreacher</a></li>
+</ul>  
 <br/>
 <table>
     <tr>

@@ -19,13 +19,13 @@
 <br/>
 <table>
   <tr>
-    td>OSINT Accounts</td>
+    <td>OSINT Accounts</td>
 </tr>
 </table>
 <ul>
   <li><a href="https://github.com/bellingcat">Bellingcat</a></li>
   <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
-  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
+  <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
   <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <li><a href="https://github.com/K2SOsint">KS2Osint</a></li>
@@ -33,7 +33,7 @@
   <li><a href="https://github.com/osintambition">OSINT Ambition</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/WebBreacher">Webreacher</a></li>
-  <br/>
+<br/>
 <table>
     <tr>
         <td>OSINT Resources & Tools</td>

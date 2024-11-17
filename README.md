@@ -39,31 +39,21 @@
         <td>OSINT Resources & Tools</td>
     </tr>
 </table>
-<ul> 
- <li><a href="https://github.com/bellingcat">Bellingcat</a></li>
-  <p>The Bellingcat Tech team develops tools for open source investigations and explores tech-focused research techniques.</p>
+<ul>
  <li><a href="https://github.com/claromes/waybacktweets">Claromes</a></li>
   <p>Find archived tweets on Wayback Machine in an easy way.</p>
  <li><a href="https://github.com/gchq/CyberChef">CyberChef</a></li>
   <p>The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis.</p>
- <li><a href="https://github.com/cipher387">Cyber Detective</a></li>
-  <p>Comphrensive list of OSINT resources.</p>
  <li><a href="https://github.com/mxrch/darkshot">Darkshot</a></li>
   <p>Lightshot scraper with OCR.</p>
  <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
   <p>Collection of Cyber Threat Intelligence sources from the deep and dark web.</p>
  <li><a href="https://github.com/piaolin/DetectDee">DetectDee</a></li>
-  <p> Hunt down social media accounts by username, email or phone across social networks.</p> 
- <li><a href="https://github.com/dutchosintguy">Dutch Osint Guy</a></li>
-  <p>Comphrensive list of OSINT resources.</p>
+  <p> Hunt down social media accounts by username, email or phone across social networks.</p>
  <li><a href="https://github.com/N0rz3/Eyes">Eyes</a></li>
   <p>Eyes is an OSINT tool to get existing accounts from an email.<p>
- <li><a href="https://github.com/Alb-310/Geogramint">Geogramint</a></li>
-  <p>An OSINT Geolocalization tool for Telegram that find nearby users and groups.</p>
  <li><a href="https://github.com/mxrch/GHunt">GHunt</a></li>
   <p>GHunt (v2) is an offensive Google framework, designed to evolve efficiently. It's currently focused on OSINT.</p>
- <li><a href="https://github.com/GONZOsint">GONZOsint</a></li>
-  <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/vil/H4X-Tools/blob/master/readme.md">H4X-Tools</a></li>
   <p>Toolkit for scraping, OSINT and more.</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>
@@ -80,8 +70,6 @@
   <p>API-less Instagram pictures and videos downloader.</p>
  <li><a href="https://github.com/instaloader/instaloader">Instaloader</a></li>
   <p>Download pictures (or videos) along with their captions.</p>
- <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
-  <p>Collection of OSINT tools.</p>
  <li><a href="https://github.com/laurent22/joplin/">Joplin</a></li>
   <p>An open source note taking and to-do application with synchronisation capabilities for Windows, macOS, Linux, Android and iOS.</p>
  <li><a href="https://github.com/henrywoo/kazam">Kazam</a></li>
@@ -94,8 +82,6 @@
   <p>The GitHub account for the makers of Malfrat's OSINT Map.</p>
  <li><a href="https://github.com/mendel5/alternative-front-ends">Mendel5</a></li>
   <p>Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.).</p>
- <li><a href="https://github.com/megadose/">Megadose</a></li>
-  <p>The creator of Holehe & Ignorant and other OSINT tools.</p> 
  <li><a href="https://github.com/novitae">Novitae</a></li>
   <p>Contributer to Malfrats as well as their own OSINT tools.</p> 
  <li><a href="https://github.com/obsproject/obs-studio">OBS Project</a></li>
@@ -120,28 +106,14 @@
   <p>A recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc.</p>
  <li><a href="https://github.com/smicallef/spiderfoot">Spiderfoot</a></li>
   <p>SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.</p>
- <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
-  <p>I collection of OSINT tools.</p>
- <li><a href="https://github.com/tejado/telegram-nearby-map">Telegram-Nearby Map</a></li>
-  <p>Discover the location of nearby Telegram users.</p>
- <li><a href="https://github.com/jordanwildon/Telepathy">Telepathy</a></li>
-  <p>Telepathy, an OSINT toolkit for investigating Telegram chats.</p>
  <li><a href="https://github.com/zqtay/Telegram-Message-Analyzer">Telegram-Message-Analyzer</a></li>
   <p>Process the exported Telegram chat history .html and generate a report message count by date, and most used words.</p>
- <li><a href="https://github.com/bellingcat/telegram-phone-number-checker">Telegram-Phone-Number-Checker</a></li>
-  <p>This script lets you check whether a specific phone number is connected to a Telegram account.</p>
- <li><a href="https://github.com/estebanpdl/telegram-tracker">Telegram Tracker</a></li>
-  <p>The package connects to Telegram's API to generate JSON files containing data for channels, including information and posts. It allows you to search for specific channels or a set of channels provided in a text file, with one channel per line.</p>
- <li><a href="https://github.com/laramies/theHarvester">theHarvester</a></li>
-  <p>E-mails, subdomains and names Harvester - OSINT.</p>
  <li><a href="https://github.com/The-OSINT-Newsletter">The OSINT Newsletter</a></li> 
   <p>Jake Creps is the Editor of The OSINT Newsletter and has created many different OSINT tools over the years.</p> 
  <li><a href="https://github.com/twintproject/twint">Twint</a></li>
   <p>An advanced Twitter scraping & OSINT tool written in Python that doesn't use Twitter's API, allowing you to scrape a user's followers, following, Tweets.</p>
  <li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  
   <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
- <li><a href="https://github.com/WebBreacher">WebBreacher</a></li>
-  <p>Collection of OSINT tools & resources.</p>
  <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
   <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
  <li><a href="https://github.com/ytdl-org/youtube-dl">YouTube-dl</a></li>

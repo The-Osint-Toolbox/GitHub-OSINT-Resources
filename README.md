@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>OSINT Accounts</td>
-</tr>
+  </tr>
 </table>
 <ul>
   <li><a href="https://github.com/bellingcat">Bellingcat</a></li>

@@ -13,6 +13,8 @@
 <ul>
     <li><a href="https://braingainsoft.com/gh/index.html">Braingainsoft</a></li>
      <p>Search for GitHub user info</p>
+    <li><a href="https://simonsmith.github.io/github-user-search/#/search">SimonSmith</a></li>
+     <p>GitHub user search</p>
 </ul>
 <br/>
 <table>

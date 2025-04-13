@@ -32,6 +32,7 @@
   <li><a href="https://github.com/K2SOsint">KS2Osint</a></li>
   <li><a href="https://github.com/megadose/">Megadose</a></li>
   <li><a href="https://github.com/osintambition">OSINT Ambition</a></li>
+  <li><a href="https://github.com/paulpogoda">Paul Pogoda</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
   <li><a href="https://github.com/WebBreacher">Webreacher</a></li>
 </ul>  

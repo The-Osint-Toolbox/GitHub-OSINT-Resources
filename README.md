@@ -1,4 +1,4 @@
-# GitHub-OSINT-Resources
+# GitHub-OSINT-Accounts
 <br></br>
 <p align="center">
   <img width="250" height="175" src="https://www.cqcore.uk/wp-content/uploads/2024/06/Screenshot-2024-06-13-122030.png">

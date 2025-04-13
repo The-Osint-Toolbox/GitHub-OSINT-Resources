@@ -53,9 +53,7 @@
  <li><a href="https://github.com/Shad0w-ops/H.I.V.E">H.I.V.E</a></li>
   <p>H.I.V.E is an automated OSINTmulti-tool that enables efficient data gathering from various sources.</p>
  <li><a href="https://github.com/huggingface">Hugging Faces</a></li>
-  <p>The AI community building the future.</p>
- <li><a href="https://github.com/henrywoo/kazam">Kazam</a></li>
-  <p>Kazam is a Linux Desktop Screen Recorder and Broadcaster.</p>   
+  <p>The AI community building the future.</p> 
  <li><a href="https://github.com/Malfrats">Malfrats Industries</a></li>
   <p>The GitHub account for the makers of Malfrat's OSINT Map.</p>
  <li><a href="https://github.com/mendel5/alternative-front-ends">Mendel5</a></li>

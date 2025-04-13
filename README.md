@@ -70,16 +70,12 @@
   <p>Protintelligence wll help you get info on Protonmail accounts and users, ProtonVPN IP adresses, ProtonMail users' PGP Keys.</p>
  <li><a href="https://github.com/lanmaster53/recon-ng">Recon-ng</a></li>
   <p>Open Source Intelligence gathering tool aimed at reducing the time spent harvesting information from open sources.</p>  
- <li><a href="https://github.com/seekr-osint/seekr">Seekr</a></li>
-  <p>A multi-purpose OSINT toolkit with a neat web-interface.</p>
  <li><a href="https://github.com/utkusen/shotlooter">Shoot Looter</a></li>
   <p>A recon tool that finds sensitive data inside the screenshots uploaded to prnt.sc.</p>
  <li><a href="https://github.com/The-OSINT-Newsletter">The OSINT Newsletter</a></li> 
   <p>Jake Creps is the Editor of The OSINT Newsletter and has created many different OSINT tools over the years.</p> 
  <li><a href="https://github.com/bellingcat/whisperbox-transcribe">Whisper Transcribe</a></li>  
   <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
- <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
-  <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
 </ul>
 <br/>
 

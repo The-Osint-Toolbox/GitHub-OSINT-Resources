@@ -31,6 +31,7 @@
   <li><a href="https://github.com/jakecreps">Jake Creps</a></li>
   <li><a href="https://github.com/K2SOsint">KS2Osint</a></li>
   <li><a href="https://github.com/megadose/">Megadose</a></li>
+  <li><a href="https://github.com/mxrch/">Mxrch</a></li>
   <li><a href="https://github.com/osintambition">OSINT Ambition</a></li>
   <li><a href="https://github.com/paulpogoda">Paul Pogoda</a></li>
   <li><a href="https://github.com/orgs/TacticalOsintAcademy/repositories">Tactical Osint Academy</a></li>
@@ -45,8 +46,6 @@
 <ul>
  <li><a href="https://github.com/mxrch/darkshot">Darkshot</a></li>
   <p>Lightshot scraper with OCR.</p>
- <li><a href="https://github.com/fastfire/deepdarkCTI">DeepDark CTI</a></li>
-  <p>Collection of Cyber Threat Intelligence sources from the deep and dark web.</p>
  <li><a href="https://github.com/vil/H4X-Tools/blob/master/readme.md">H4X-Tools</a></li>
   <p>Toolkit for scraping, OSINT and more.</p>
  <li><a href="https://github.com/HashPals/Search-That-Hash">HashPals</a></li>

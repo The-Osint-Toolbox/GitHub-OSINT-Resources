@@ -80,8 +80,6 @@
   <p>Bellingcat - Easy to deploy API for transcribing / translating video and audio using OpenAI's Whisper model and more.</p>
  <li><a href="https://github.com/TermuxHackz/X-osint">X-OSINT</a></li>
   <p>An Open source intelligent framework, for emails, IPs, phone numbers etc.</p>
- <li><a href="https://github.com/mattwright324/youtube-geofind">YouTube Geofind</a></li>
-  <p>Web-tool to search YouTube for geographically tagged videos by channel, topic, and location. Videos are viewable in a map and exportabled to CSV.</p>
 </ul>
 <br/>
 
